@@ -5,7 +5,7 @@ The aim of this practice is to visualize with an interactive flow-map the aggreg
 
 ## Results
 
-***Final map animation:*** https://bryanvallejo16.github.io/movements-odmatrix-tartu/
+***Final map animation:*** https://bryanvallejo16.github.io/bike-movements-helsinki/
 
 ***Tutorial:*** 
 
