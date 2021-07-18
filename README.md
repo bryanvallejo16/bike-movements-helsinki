@@ -1,4 +1,6 @@
-# Interactive Flow-map of Aggreagted Bike Movements between Bike Stations in Helsinki Region
+[![DOI](https://zenodo.org/badge/387138317.svg)](https://zenodo.org/badge/latestdoi/387138317)
+
+# Interactive Flow-map of Aggregated Bike Movements between Bike Stations in Helsinki Region
 
 ## Aim
 The aim of this practice is to visualize with an interactive flow-map the aggregated movements of the Bike Sharing System trip data for understanding the Bike usage dynamics in Helsinki
