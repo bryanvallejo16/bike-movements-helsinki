@@ -13,3 +13,5 @@ The aim of this practice is to visualize with an interactive flow-map the aggreg
 
 ## Final map
 ![animation](gif/gif-movements.gif)
+
+<a href="https://www.buymeacoffee.com/bryan.vallejo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
